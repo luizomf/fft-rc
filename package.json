@@ -1,0 +1,8 @@
+{
+  "name": "fft-rc",
+  "version": "1.0.0",
+  "description": "Files from template for creating React Components and Templates",
+  "bin": "./index.js",
+  "devDependencies": {},
+  "dependencies": {}
+}
