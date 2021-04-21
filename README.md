@@ -1,12 +1,18 @@
 # React Component Template for Files From Template
 
-Usage:
+## Usage:
 
 ```
 npx https://github.com/luizomf/fft-rc
 ```
 
 It will create the template and config files for [files from template](https://www.npmjs.com/package/files-from-template).
+
+## After creating the template
+
+After creating the template files, you don't need me anymore. Please follow instructions on [files from template](https://www.npmjs.com/package/files-from-template). I'm gonna show you the basics bellow.
+
+## Basic instructions
 
 To create a component from this template, type:
 
