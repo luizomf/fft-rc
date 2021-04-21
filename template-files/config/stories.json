@@ -1,4 +1,4 @@
 {
   "templateFilePath": "./.fft/templates/stories.hbs",
-  "outputFilePath": "./src/{{ root }}/{{ ordered.[0] }}/stories.tsx"
+  "outputFilePath": "./{{ root }}/{{ ordered.[0] }}/stories.tsx"
 }

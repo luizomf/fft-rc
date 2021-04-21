@@ -11,5 +11,15 @@ It will create the template and config files for [files from template](https://w
 To create a component from this template, type:
 
 ```
+npx files-from-template --config-files="./.fft/config" --root="path-to-components-folder" ComponentName
+```
+
+The folder in `path-to-components-folder` should exist, otherwise it will throw an error. The only folder that will be created is the `ComponentName` folder (it'll be whatever you put here).
+
+If you just want to test:
 
 ```
+npx files-from-template --config-files="./.fft/config" ComponentName
+```
+
+And a folder called `ComponentName` will be create inside the directory you are.

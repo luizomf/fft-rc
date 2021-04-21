@@ -1,4 +1,4 @@
 {
   "templateFilePath": "./.fft/templates/styles.hbs",
-  "outputFilePath": "./src/{{ root }}/{{ ordered.[0] }}/styles.ts"
+  "outputFilePath": "./{{ root }}/{{ ordered.[0] }}/styles.ts"
 }
